@@ -1,4 +1,4 @@
-# JS Assignment Quizler
+# JS Quiz
 ---
 In this assignment students are tasked with creating a custom library for a command line application
 which builds quizzes and allows the user to take quizzes they have built or pull
